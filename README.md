@@ -1,16 +1,42 @@
-# Hi there 👋
+<h1 align="center">Hi there, I'm Murilo Oliva Mantovani 👋</h1>
 
-I'm a Computer Engineering student at **UFSCar**.  
-Currently focused on **C**, **C++**, and **Python** programming languages.
+<p align="center">
+  🎓 Studying Computer Engineering at <strong>UFSCar</strong><br>
+  💻 Focused on C, C++ and Python Development<br>
+  🔧 Enthusiast of Hardware Description Languages (VHDL, Verilog, SystemVerilog)<br>
+  🚀 Passionate about technology, embedded systems, and digital design
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-mantovani-169909306/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m_mantovaniz/)
+---
 
-## 🛠️ Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+## 🔧 Technologies & Tools
 
-## 📈 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mantovaniii&layout=compact&theme=github_dark)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mantovaniii&show_icons=true&theme=github_dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantovaniii&layout=compact&theme=github_dark" height="180em"/>
+</p>
+
+---
+
+## 📫 How to reach me
+
+- ✉️ Email: mantovani.murilo@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+
+---
+
+<p align="center">
+  🚀 Always learning, always growing!
+</p>
