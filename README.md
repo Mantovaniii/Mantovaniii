@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Murilo Oliva Mantovani 👋</h1>
+<h1 align="center">Hi there, I'm Murilo Mantovani 👋</h1>
 
 <p align="center">
   🎓 Studying Computer Engineering at <strong>UFSCar</strong><br>
