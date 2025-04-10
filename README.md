@@ -32,8 +32,8 @@
 
 ## 📫 How to reach me
 
-- ✉️ Email: mantovani.murilo@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+- ✉️ Email: murilomntvn@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-mantovani-169909306/)
 
 ---
 
