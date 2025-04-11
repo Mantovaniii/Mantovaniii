@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src=" https://camo.githubusercontent.com/1c9d91739fb555dbdee84b8f7e79790b984096cd8bf36f646ed2d22dd6657bba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d616e746f76616e696969266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantovaniii&layout=compact&theme=tokyonight" >
 </p>
 
 ---
