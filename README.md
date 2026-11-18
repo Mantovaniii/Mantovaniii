@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Studying Computer Engineering at <strong>UFSCar</strong><br>
   💻 Focused on C, C++ and Python Development<br>
-  🔧 Enthusiast of Hardware Description Languages (VHDL, Verilog, SystemVerilog)<br>
   🚀 Passionate about technology, embedded systems, and digital design
 </p>
 
@@ -34,6 +33,3 @@
 
 ---
 
-<p align="center">
-  🚀 Always learning, always growing!
-</p>
